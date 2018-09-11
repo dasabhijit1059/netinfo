@@ -1,0 +1,2 @@
+# netinfo
+Just another repository
