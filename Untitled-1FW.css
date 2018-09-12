@@ -1,0 +1,132 @@
+td img {
+/* Another Mozilla/Netscape bug with making sure our images display correctly */
+	display: block;
+}
+
+#FWTableContainer643764786 {
+/* The master div to make sure that our popup menus get aligned correctly.  Be careful when playing with this one. */
+	position:relative;
+	margin:0px;
+	width:146px;
+	height:63px;
+	text-align:left;
+}
+
+#MMMenuContainer0623212045_0 {
+/* This ID is related to the master menu div for menu MMMenuContainer0623212045_0 and contains the important positioning information for the menu as a whole */
+	position:absolute;
+	left:28px;
+	top:55px;
+	visibility:hidden;
+	z-index:300;
+}
+
+#MMMenu0623212045_0 {
+/* This class defines things about menu MMMenu0623212045_0's div. */
+	position:absolute;
+	left:0px;
+	top:0px;
+	visibility:hidden;
+	background-color:#000000;
+	width:134px;
+	height:34px;
+}
+
+.MMMIFVStyleMMMenu0623212045_0 {
+/* This class determines the general characteristics of the menu items in menu MMMenu0623212045_0 */
+	width:134px;
+	height:34px;
+	voice-family: "\"}\"";
+	voice-family:inherit;
+	width:128px;
+	height:28px;
+}
+
+#MMMenu0623212045_0_Item_0 {
+/* Unique ID for item 0 of menu MMMenu0623212045_0 so we can set its position */
+	left:0px;
+	top:0px;
+}
+
+#MMMenu0623212045_0_1 {
+/* This class defines things about menu MMMenu0623212045_0_1's div. */
+	position:absolute;
+	left:0px;
+	top:34px;
+	visibility:hidden;
+	background-color:#000000;
+	width:134px;
+	height:68px;
+}
+
+.MMMIFVStyleMMMenu0623212045_0_1 {
+/* This class determines the general characteristics of the menu items in menu MMMenu0623212045_0_1 */
+	width:134px;
+	height:34px;
+	voice-family: "\"}\"";
+	voice-family:inherit;
+	width:128px;
+	height:28px;
+}
+
+.MMMIVStyleMMMenu0623212045_0_1 {
+/* This class determines the general characteristics of the menu items in menu MMMenu0623212045_0_1 */
+	width:134px;
+	height:34px;
+	voice-family: "\"}\"";
+	voice-family:inherit;
+	width:128px;
+	height:28px;
+}
+
+#MMMenu0623212045_0_1_Item_0 {
+/* Unique ID for item 0 of menu MMMenu0623212045_0_1 so we can set its position */
+	left:0px;
+	top:0px;
+}
+
+#MMMenu0623212045_0_1_Item_1 {
+/* Unique ID for item 1 of menu MMMenu0623212045_0_1 so we can set its position */
+	left:0px;
+	top:34px;
+}
+
+.MMMenuItemSpanMMMenu0623212045_0 {
+/* The span class definition so we can make sure that arrows and menu text in menu MMMenu0623212045_0 look correct */
+	float:left;
+	width:122px;
+}
+
+.MMArrowStyleMMMenu0623212045_0 {
+/* This class allows us to position the submenu arrows for menu MMMenu0623212045_0 */
+	position:absolute;
+	left:123px;
+	top:13px;
+}
+
+#MMMenuContainer0623212045_0 img {
+/* needed for Mozilla/Camino/Netscape */
+	border:0px;
+}
+
+#MMMenuContainer0623212045_0 a {
+/* Controls the general apperance for menu MMMenuContainer0623212045_0's items, including color and font */
+	text-decoration:none;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:24px;
+	color:#ff0000;
+	text-align:center;
+	vertical-align:middle;
+	padding:3px;
+	background: url("fw/mmmenu1_134x34_up.gif") #ffff00;
+	font-weight:bold;
+	font-style:normal;
+	display:block;
+	position:absolute;
+}
+
+#MMMenuContainer0623212045_0 a:hover {
+/* Controls the mouse over effects for menu MMMenuContainer0623212045_0 */
+	color:#0000ff;
+	background: url("fw/mmmenu1_134x34_over.gif") #00ff00;
+}
